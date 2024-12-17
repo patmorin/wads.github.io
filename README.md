@@ -1,2 +1,4 @@
 # wads.github.io
-Symposium on Algorithms and Data Structures (WADS)
+Algorithms and Data Structures Symposium (WADS)
+
+(formerly Workshop on Algorithms and Data Structures)
